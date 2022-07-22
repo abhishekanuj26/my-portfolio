@@ -1,0 +1,45 @@
+.education{
+    margin-top: 50px;
+}
+
+
+.msit{
+    
+    background-color: #9fdddf44;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+.iitm{
+    margin-top: 20px;
+    background-color: #9fdddf44;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+
+img{
+    width: 10%;
+    height: 10%;
+    object-fit: contain;
+    float: right;
+}
+.zoom {
+ 
+    
+    transition: transform .2s; /* Animation */
+  
+   
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
